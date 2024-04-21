@@ -2,7 +2,7 @@
 title: "Analysis of CT scan data using PCA and kmeans"
 author: "RKOpTris"
 date: '2024-04-17'
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
